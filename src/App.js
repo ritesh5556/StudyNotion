@@ -1,6 +1,8 @@
-import { Routes } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import "./App.css";
-import { Route } from "react-router-dom";
+import Home from "./pages/Home";
+
+
 // import Home from "./pages/Home";
 // import Navbar from "./components/common/Navbar"
 // import OpenRoute from "./components/core/Auth/OpenRoute"
@@ -38,9 +40,12 @@ function App() {
 
   
   return (
-    <div className="w-screen min-h-screen bg-[#000814] flex flex-col font-inter" >
-     <h1 style={{color: "white"}}>Hello jee</h1>
-    </div>
+   <div className="w-screen min-h-screen bg-richblack-900 flex flex-col font-inter">
+    <Routes>
+      <Route path="/" element={<Home/>} ></Route>
+    </Routes>
+      
+   </div>
   );
 }
 

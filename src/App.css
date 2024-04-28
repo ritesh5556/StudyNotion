@@ -9,6 +9,10 @@
     }
   }
   
+.homepage-bg {
+  background: url("../src//assets//Images/bghome.svg");
+} 
+
 html,body{
     overflow-x: hidden;
 }
