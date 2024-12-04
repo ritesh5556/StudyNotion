@@ -165,7 +165,7 @@ StudyNotion is a fully functional ed-tech platform that enables users to create,
 ## Resources
 
 - **Frontend**: 
-- **GitHub Repository**: [GitHub Link](https://github.com/khalekarakash05/StudyNotion)
+- **GitHub Repository**: [GitHub Link](https://github.com/ritesh5556/StudyNotion)
 
 ## Topics
 
@@ -181,8 +181,5 @@ StudyNotion is a fully functional ed-tech platform that enables users to create,
 - Razorpay API
 - TailwindCSS
 
-## Contact
-
-For more information, please contact us at [akashkhalekar@gmail.com].
 
 
